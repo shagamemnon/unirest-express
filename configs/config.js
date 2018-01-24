@@ -8,6 +8,9 @@ const config = {
     "appKey": "ulx8lAUVH72sOe1IdljjknGtI9SK3MsLeaXPQP9z",
     "masterKey": "3evd02rITro6toACJQfCY7k7aIBS9QzKc3SMe8VP",
     "serverURL": 'https://pg-app-tpg8jmcjvh1ewdbc3lry4pvdz30q9l.scalabl.cloud/1/'
+  },
+  "quip": {
+    'Authorization': 'Bearer QldaQU1BNThjbEI=|1548314271|8qEUd/JMvOyokHQ0ZnOhWhkGb/t4V71Po82eJYlEDgM='
   }
 }
 
